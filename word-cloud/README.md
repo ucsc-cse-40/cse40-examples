@@ -1,6 +1,6 @@
 # Word Cloud
 
-This example uses the responses from a student survey (housed in responses.txt).
+This example uses the responses from a student survey (housed in `responses.txt`).
 The specific question that these responses are from was:
 ```
 What classes are you taking?
