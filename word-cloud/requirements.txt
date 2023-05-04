@@ -1,2 +1,2 @@
-matplotlib
+ucsc-cse40
 wordcloud
