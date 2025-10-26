@@ -1,0 +1,37 @@
+{
+    "A": {
+        "Population": "5,120,000",
+        "GDP Growth": "3.1% (est.)",
+        "Literacy": "0.95",
+        "Main Exports": "oil, diamonds",
+        "A Very Sparse Column": "NA"
+    },
+    "B": {
+        "Population": "12,300,000 (2021 est.)",
+        "GDP Growth": "1.2%",
+        "Literacy": "0.87 (est.)",
+        "Main Exports": "cars, medicine",
+        "A Very Sparse Column": "nan"
+    },
+    "C": {
+        "Population": "830,000",
+        "GDP Growth": "N/A",
+        "Literacy": "nan",
+        "Main Exports": "fish",
+        "A Very Sparse Column": "1"
+    },
+    "D": {
+        "Population": "21,100,000",
+        "GDP Growth": "-0.5%",
+        "Literacy": "0.99",
+        "Main Exports": "oil, gas",
+        "A Very Sparse Column": "n/a"
+    },
+    "E": {
+        "Population": "980 (est.)",
+        "GDP Growth": "2.5% (est.)",
+        "Literacy": "0.91",
+        "Main Exports": "diamonds",
+        "A Very Sparse Column": "na"
+    }
+}
